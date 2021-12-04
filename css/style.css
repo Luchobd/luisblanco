@@ -441,7 +441,7 @@ form {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 60px;
-  font-size: 80px;
+  font-size: 5rem;
 }
 
 .fa-html5 {
@@ -857,6 +857,10 @@ form .icons a:hover {
 
   .about.container {
     padding-top: 10px;
+  }
+
+  .about__icons {
+    font-size: 2.5rem;
   }
 
   /* Mis Proyectos */
